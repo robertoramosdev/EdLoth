@@ -4,7 +4,7 @@
 
 - 💬 Ask me whatever you want: **React, Next, Bootstrap, HTML and CSS**
 
-- 📫 How to reach me **contatoeduardo.dev@gmail.com**
+- 📫 How to reach me **eduardosram10@gmail.com**
 
 - ⚡ Curiosity ** I make the apps and play football and leave myself still singing **
 
@@ -31,8 +31,8 @@
   
   <div> 
  
-  <a href="https://instagram.com/eduardo.sram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoeduardo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ed.loth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23833AB4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eduardosram10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dev-eduardo-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
     
