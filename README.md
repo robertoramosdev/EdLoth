@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eduardo Ramos</h1>
-<h3 align="center">A passionate Full-Stack Developer from Brasil</h3>
+<h1 align="left">Hi 👋, I'm Eduardo Ramos</h1>
+<h3 align="left">A passionate Full-Stack Developer from Brasil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edloth" alt="EdLoth" /> </p>
 
 - 💬 Ask me whatever you want: **React, Node, Typescript, Next, Nest**
