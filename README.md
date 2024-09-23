@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Brasil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edloth" alt="EdLoth" /> </p>
 
-- 💬 Ask me whatever you want: **React, Next, Bootstrap, HTML and CSS**
+- 💬 Ask me whatever you want: **React, Node, Typescript, Next, Nest**
 
 - 📫 How to reach me **eduardosram10@gmail.com**
 
